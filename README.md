@@ -9,9 +9,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Frontend developer</h3>
 
 ---
-<div id="banner"
-  <img src="(https://user-images.githubusercontent.com/74131936/174347228-8b60c511-21bb-48ad-a4ca-d18c9f712d68.png)" alt=banner">
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="200"/>
