@@ -21,9 +21,10 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=igorleb&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="header" align="center">
-  Hi there 👋
-</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 
