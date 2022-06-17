@@ -11,9 +11,6 @@ You can click the Preview link to take a look at your changes.
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://t.me/IgorL07">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
@@ -21,10 +18,10 @@ You can click the Preview link to take a look at your changes.
  <div id="view-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=igorleb&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  hey there
+<div align="center">
+  <h1>hey there</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
 
 
 
