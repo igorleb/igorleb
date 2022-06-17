@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer</h3>
 
----
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="200"/>
 </div>
