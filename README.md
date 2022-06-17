@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="400"/>
 </div>
 <div id="links" align="center">
   <a href="your-linkedin-URL">
