@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=igorleb&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="header" align="center">
   Hi there 👋
 </div>
 
