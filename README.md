@@ -4,7 +4,7 @@ igorleb/igorleb is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<div id="header" align="center">
+<div id="header" align="center" background-color="green">
   <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="200"/>
 </div>
 <div id="links" align="center">
