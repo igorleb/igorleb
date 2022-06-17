@@ -7,10 +7,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorleb&label=Profile%20views&color=0e75b6&style=flat" alt="igorleb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igorleb" alt="igorleb" /></a> </p>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="200"/>
 </div>
