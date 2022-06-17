@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,9 +42,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorleb&show_icons=true&locale=en&layout=compact" alt="igorleb" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorleb&show_icons=true&locale=en" alt="igorleb" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorleb&show_icons=true&locale=en&layout=compact" alt="igorleb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorleb&" alt="igorleb" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorleb&show_icons=true&locale=en" alt="igorleb" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorleb&" alt="igorleb" /></p>
+</div>
 
