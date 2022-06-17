@@ -27,11 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -46,4 +41,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorleb&show_icons=true&locale=en&layout=compact" alt="igorleb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorleb&show_icons=true&locale=en" alt="igorleb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorleb&" alt="igorleb" /></p>
 
