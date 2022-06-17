@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!---
 igorleb/igorleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
-<div id="header" align="center">
+<div id="links" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,6 +21,11 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=igorleb&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="header" align="center">
+  ### Hi there 👋
+</div>
+
+
 
 
 ### Languages and Tools :
