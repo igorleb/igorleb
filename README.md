@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://t.me/IgorL07">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+ </div>
+ <div id="view-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=igorleb&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
